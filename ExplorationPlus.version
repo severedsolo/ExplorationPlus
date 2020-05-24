@@ -1,0 +1,35 @@
+{
+    "NAME"     : "Contract Pack: Exploration Plus",
+    "URL"      : "https://github.com/severedsolo/ExplorationPlus/blob/master/ExporationPlus.version",
+    "DOWNLOAD" : "https://github.com/severedsolo/ExplorationPlus/releases",
+    "GITHUB" :
+    {
+        "USERNAME" : "severedsolo",
+        "REPOSITORY" : "ExplorationPlus"
+    },
+    "VERSION" :
+    {
+        "MAJOR" : 2,
+        "MINOR" : 0,
+        "PATCH" : 1,
+        "BUILD" : 0
+    },
+    "KSP_VERSION" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 9,
+        "PATCH" : 1
+    },
+    "KSP_VERSION_MIN" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 9,
+        "PATCH" : 0
+    },
+    "KSP_VERSION_MAX" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 99,
+        "PATCH" : 99
+    }
+}
